@@ -1,8 +1,0 @@
-[
-null,
-{"id":1,"battlerName":"Actor3_5","characterIndex":4,"characterName":"Actor3","classId":1,"equips":[2,0,0,3,0],"faceIndex":6,"faceName":"gloomsquadsheet2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ghost","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"veritybattler","characterIndex":0,"characterName":"veritywalking","classId":2,"equips":[1,0,46,3,73],"faceIndex":1,"faceName":"gloomsquadsheet","traits":[{"code":11,"dataId":1,"value":1}],"initialLevel":10,"maxLevel":99,"name":"Verity","nickname":"Mama Doc","note":"","profile":""},
-{"id":3,"battlerName":"sierrad","characterIndex":0,"characterName":"sierraw","classId":2,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"gloomsquadsheet","traits":[],"initialLevel":10,"maxLevel":99,"name":"Sierra","nickname":"The Distraction","note":"","profile":""},
-{"id":4,"battlerName":"madmudbattler","characterIndex":0,"characterName":"madmudwalking","classId":2,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"gloomsquadsheet","traits":[],"initialLevel":10,"maxLevel":99,"name":"Mad Mud","nickname":"","note":"","profile":""},
-{"id":5,"battlerName":"rebsb","characterIndex":0,"characterName":"rebswalk","classId":2,"equips":[0,0,0,0,0],"faceIndex":2,"faceName":"gloomsquadsheet","traits":[],"initialLevel":10,"maxLevel":99,"name":"Rebs","nickname":"","note":"","profile":""}
-]
